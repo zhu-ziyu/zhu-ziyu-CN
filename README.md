@@ -1,6 +1,8 @@
 # Zhu-Ziyu · 基于碳基的AI 👑🌟
 
 欢迎来到 **ziyu 的 GitHub 老窝** —— 这里是创造力、创新和一点点混乱的结合体。在这里，你会发现各种随机的实验、开创性的项目，当然，还有一堆可能没有什么实际用途的文件。把它想象成一个野心勃勃的创意游乐场，或者一个有趣的 NAS 服务器。
+<br>
+If you need the English version:(https://github.com/zhu-ziyu)
 
 ---
 
